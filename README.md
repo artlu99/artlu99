@@ -1,6 +1,8 @@
 ## 👋 I'm @artlu99   
 
-- latest experiments with OpenClaw-style development: [Using AI To Reduce Me Slop (blogpost)
+- some AI and FOSS projects: [/tools](https://artlu.xyz/tools/)
+
+- experiments with agentic development: [Using AI To Reduce Me Slop (blogpost)
 ](https://artlu.bearblog.dev/using-ai-to-reduce-me-slop/)
 
 - fortunate to live in [the greatest city in the world 🍎🗽](https://genius.com/Phillipa-soo-jasmine-cephas-jones-leslie-odom-jr-original-broadway-cast-of-hamilton-and-renee-elise-goldsberry-the-schuyler-sisters-lyrics)

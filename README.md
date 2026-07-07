@@ -13,6 +13,6 @@
 
 - local-first: *[Localmark 🔖](https://localmark.uk)*, [Streaks ✅](https://github.com/artlu99/streaks) (starter template)
 
-- sovereign building blocks: [cdn](https://github.com/artlu99/cdn), [aes256](https://github.com/artlu99/aes256)
+- sovereign building blocks: [cdn](https://github.com/artlu99/cdn), [aes256](https://github.com/artlu99/aes256), [lmdis](https://github.com/artlu99/lmdis)
 
 - cryptography:  *[SassyHash 💅](https://sassyhash.artlu.xyz/)*,  *[Velvet 👛 ](https://velvet.artlu.xyz/)*
